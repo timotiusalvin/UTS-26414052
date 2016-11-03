@@ -1,4 +1,0 @@
-1 wget -O /tos "api.worldbank.org/v2/en/indicator/SI.POV.GINI?downloadformat=csv"
-2 unzip SI.POV.GINI?downloadformat=csv
-3 vim yeye.pl
-4 history
